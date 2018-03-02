@@ -6,7 +6,7 @@
        * GitHub username 1: jwells96
        * GitHub username 2: WangDonglin
        * GitHub username 3: wavre124
-       * GitHub username 4:
+       * GitHub username 4: wwang526
        * GitHub username 5:
    * When did you complete this exercise? 
    
