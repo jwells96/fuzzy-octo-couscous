@@ -1,10 +1,10 @@
 # X-Team 20 Style Guide
 
-A clean concise segment of code includes well commented lines along with appropriate spacing. This allows team members to easily and quickly understand code that they did not construct.
+A clean segment of code includes well commented lines along with appropriate spacing. This allows team members to easily and quickly understand code that they did not construct.
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+All the naming convetions should be descriptive in the right matter. It should be concise. 
 
 ### Examples
 * interfaces
