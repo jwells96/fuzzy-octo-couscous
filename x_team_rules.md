@@ -29,7 +29,10 @@ and missed deadlines.
   * This is not strictly required but is recommended.
 
 ## How will we communicate difficulties with a task assigned to us
-
+* 1. We will communicate difficulties by informing others on a timely and consistent manner. 
+  * Each team member has to clearly communicate and update the difficulties. All team memebers will be responsible for updating the         group via text. 
+* 2. We will create a .md file to tackle difficulties. 
+  * All team members will highlight difficulties that were solved, but keep it in the document for future reference. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
