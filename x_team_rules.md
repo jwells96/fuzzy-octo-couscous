@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 * 1. Tasks are to be assigned on a requested basis at first.
-   * If a team member has a specific preference (and they are experienced in that area) they can request to complete that part of         the project.
+   * If a team member has a specific preference (and they are experienced in that area) they can request to complete that part    of the project.
   
 * 2. Tasks left unrequested will be divided between the group members. 
     * The number of tasks assigned will attempt to distribute difficulty and work-load evenly.
@@ -25,17 +25,16 @@ and missed deadlines.
 
 * 1. Tasks need to be divided into chunks and distributed to all team members.
   * Each team member must clearly understand their parts in the project.
-* 2. When a task is complete, the team member shall update other team members about the progress through text.
+* 2. When a task is complete, the team member shall update other team members about the progress through text messaging.
   * This is not strictly required but is recommended.
 
-## How will we communicate difficulties with a task assigned to us
-* 1. We will communicate difficulties by informing others on a timely and consistent manner. 
-  * Each team member has to clearly communicate and update the difficulties. All team memebers will be responsible for updating the         group via text. 
-* 2. We will create a .md file to tackle difficulties. 
-  * All team members will highlight difficulties that were solved, but keep it in the document for future reference. 
+## How will will communicate difficulties with a task assigned to us
+
 
 
 ## How we will back up each other to ensure that deadlines are not missed
+* 1. Each member will create an alarm on their phone to go off once a week, in order to remind the members of the upcoming deadline.
+  * The alarms are to be set 3 weeks out from when the assignment is due.
 
 
 
