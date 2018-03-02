@@ -10,11 +10,11 @@
        * GitHub username 5:
    * When did you complete this exercise? 
    
-       * *March 2nd, 2018*
+       * *March 2nd 2018*
    
    * How long did it take your team to complete this exercise? 
    
-       * *1 Hour and 30 Minutes*
+       * *1 Hour and 30 Minutes* 
 
 ## Table of Contents
 
