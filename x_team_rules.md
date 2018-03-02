@@ -28,7 +28,7 @@ and missed deadlines.
 * 2. When a task is complete, the team member shall update other team members about the progress through text.
   * This is not strictly required but is recommended.
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
