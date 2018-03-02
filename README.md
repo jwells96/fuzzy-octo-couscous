@@ -5,12 +5,12 @@
    * What are the GitHub usernames of your team members?
        * GitHub username 1: jwells96
        * GitHub username 2: WangDonglin
-       * GitHub username 3:
+       * GitHub username 3: wavre124
        * GitHub username 4:
        * GitHub username 5:
    * When did you complete this exercise? 
    
-       * *March 3rd, 2018*
+       * *March 2nd, 2018*
    
    * How long did it take your team to complete this exercise? 
    
