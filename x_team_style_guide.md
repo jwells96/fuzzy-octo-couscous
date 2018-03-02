@@ -1,6 +1,6 @@
 # X-Team 20 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+A clean concise segment of code includes well commented lines along with appropriate spacing. This allows team members to easily and quickly understand code that they did not construct.
 
 ## Naming conventions
 
