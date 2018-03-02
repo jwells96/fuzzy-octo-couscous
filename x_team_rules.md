@@ -18,6 +18,12 @@ and missed deadlines.
 2a. The number of tasks assigned will attempt to distribute difficulty and work-load evenly.
 
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
