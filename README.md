@@ -7,7 +7,7 @@
        * GitHub username 2: WangDonglin
        * GitHub username 3: wavre124
        * GitHub username 4: wwang526
-       * GitHub username 5:
+       * GitHub username 5: KaiWang66
    * When did you complete this exercise? 
    
        * *March 2nd 2018*
