@@ -15,6 +15,10 @@ and missed deadlines.
 * 2. Tasks left unrequested will be divided between the group members. 
     * The number of tasks assigned will attempt to distribute difficulty and work-load evenly.
 
+* 3. If a task is taking too long or is too difficult for a member, they must notify the team with ample time in order to move forward with project.
+    * Group members will provide help and assitance to the member in order to help them gain an understanding of the problem.
+    * If the problem can still not be solved, members may trade tasks if both parties agree. 
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
