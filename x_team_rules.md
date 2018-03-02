@@ -21,11 +21,14 @@ and missed deadlines.
 
 
 
-## How we will track progress (and follow-up) on completion of tasks
+## How will we will track progress (and follow-up) on completion of tasks
 
+* 1. Tasks need to be divided into chunks and distributed to all team members.
+  * Each team member must clearly understand their parts in the project.
+* 2. When a taks is complete, the team member shall update other team member about the progress through text.
+  * This is not strictly required bu is recommended.
 
-
-## How we will communicate difficulties with a task assigned to us
+## How will will communicate difficulties with a task assigned to us
 
 
 
