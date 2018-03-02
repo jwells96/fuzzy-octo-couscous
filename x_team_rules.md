@@ -29,7 +29,7 @@ and missed deadlines.
   * This is not strictly required but is recommended.
 
 ## How will we communicate difficulties with a task assigned to us
-* 1.Creat a file in repository of our quesitons and difficulties for all members to see and keep track on.
+* 1. Creat a file in repository of our quesitons and difficulties for all members to see and keep track on.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
