@@ -28,8 +28,8 @@ and missed deadlines.
 * 2. When a task is complete, the team member shall update other team members about the progress through text messaging.
   * This is not strictly required but is recommended.
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+* 1.Creat a file in repositories of our quesitons and difficulties for all members to see and keep track on.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
