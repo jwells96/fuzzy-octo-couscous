@@ -13,6 +13,8 @@
        * *March 3rd, 2018*
    
    * How long did it take your team to complete this exercise? 
+   
+       * *1 Hour and 30 Minutes*
 
 ## Table of Contents
 
