@@ -10,9 +10,12 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 1. Tasks are to be assigned on a requested basis at first.
-1a. If a team member has a specific preference (and they are experienced in that area) they can request to complete that part of the project.
+
+  1a. If a team member has a specific preference (and they are experienced in that area) they can request to complete that part of the project.
+  
 2. Tasks left unrequested will be divided between the group members. 
-2a. The number of tasks assigned will attempt to distribute difficulty and work-load evenly.
+
+  2a. The number of tasks assigned will attempt to distribute difficulty and work-load evenly.
 
 
 
