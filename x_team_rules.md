@@ -25,7 +25,7 @@ and missed deadlines.
 
 * 1. Tasks need to be divided into chunks and distributed to all team members.
   * Each team member must clearly understand their parts in the project.
-* 2. When a taks is complete, the team member shall update other team member about the progress through text.
+* 2. When a task is complete, the team member shall update other team member about the progress through text.
   * This is not strictly required bu is recommended.
 
 ## How will will communicate difficulties with a task assigned to us
