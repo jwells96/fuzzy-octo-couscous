@@ -26,7 +26,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * class constants
   * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
 ## Commenting style for public and private members of a class or interface:
-The teams commenting style consists of short, descriptive comments of unclear code segments. Comments are located above the field they are describing. 
+The teams commenting style consists of short, descriptive statements of unclear code segments. Comments are located above the field they are describing. 
 
 ### Examples
 
