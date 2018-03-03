@@ -8,7 +8,6 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
- * 
 * classes
 * exception types
 * fields
@@ -27,7 +26,6 @@ All the naming convetions should be descriptive in the right matter. It should b
 * classes
 ```Java
 public class exampleClass {
-
 }
 ```
 * fields
