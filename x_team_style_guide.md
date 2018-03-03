@@ -10,7 +10,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * interfaces
   * The name should start with upper case letter nad must be a comprehensable word e.x. Comparable 
 * classes
-  * The name should start with upper case letter nad must be clear that it's abstract construct e.x. ListADT
+  * The name should start with upper case letter nad must be clear that it's an abstract construct e.x. ListADT
 * exception types
   * Each word must be concantenated together and the beginning of each word should be capitalized e.x DuplicateKeyException()
 * fields
@@ -26,8 +26,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * class constants
   * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
 ## Commenting style for public and private members of a class or interface:
-
-<brief statement of your team's commenting style>
+The teams commenting style consists of short, descriptive comments of unclear code segments. Comments are located above the field they are describing. 
 
 ### Examples
 
