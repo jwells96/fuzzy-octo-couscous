@@ -84,3 +84,7 @@ public callStack(int input) {
   }
   ```
   * enhanced for loops
+  ```Java
+  for (Penguin p : it) {
+  }
+  ```
