@@ -8,13 +8,13 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
- The name should start with upper case letter nad must be a comprehensable word e.x. Comparable 
+ * The name should start with upper case letter nad must be a comprehensable word e.x. Comparable 
 * classes
- The name should start with upper case letter nad must be clear that it's abstract construct e.x. ListADT
+ * The name should start with upper case letter nad must be clear that it's abstract construct e.x. ListADT
 * exception types
  
 * fields
- Must be descriptive and a phrase or word. First letter must be lower case e.x heightOfTree
+ * Must be descriptive and a phrase or word. First letter must be lower case e.x heightOfTree
 * methods
  Must be descriptive and a phrase or word. First letter must be lower case e.x getHeight
 * parameters
