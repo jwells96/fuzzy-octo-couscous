@@ -8,6 +8,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
+ * 
 * classes
 * exception types
 * fields
@@ -30,6 +31,20 @@ All the naming convetions should be descriptive in the right matter. It should b
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
+    switch (month) {
+        case 2:
+            daysInMonth = 28;
+            break;
+        case 4:
+        case 6:
+        case 9:
+        case 11:
+            daysInMonth = 28;
+            break;
+        default:
+            daysInMonth = 31;
+            break;
+    }
   * while loops
   * for loops
   * enhanced for loops
