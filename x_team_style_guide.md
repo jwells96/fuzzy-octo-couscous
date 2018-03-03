@@ -31,6 +31,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
+   ``` Java
     switch (month) {
         case 2:
             daysInMonth = 28;
@@ -45,6 +46,7 @@ All the naming convetions should be descriptive in the right matter. It should b
             daysInMonth = 31;
             break;
     }
+    ```
   * while loops
   * for loops
   * enhanced for loops
