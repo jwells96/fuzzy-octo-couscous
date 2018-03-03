@@ -8,6 +8,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
+ * 
 * classes
 * exception types
 * fields
@@ -24,11 +25,37 @@ All the naming convetions should be descriptive in the right matter. It should b
 ### Examples
 
 * classes
+```Java
+public class exampleClass {
+
+}
+```
 * fields
+```Java
+int firstInt = 0;
+String emptyStr = "";
+```
 * constructors
+```Java
+public exampleClass(int firstInt, String emptyStr) {
+}
+```
 * methods
+```Java
+public callStack(int input) {
+}
+```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  ``` Java
+  
+  if(date == 1) {
+  }
+  else if(date <= 5) {
+  }
+  else {
+  }
+  ```
   * switch statement
    ``` Java
     switch (month) {
@@ -47,5 +74,13 @@ All the naming convetions should be descriptive in the right matter. It should b
     }
     ```
   * while loops
+  ```Java
+  while(true) {
+  }
+  ```
   * for loops
+  ```Java
+  for(int i = 0; i < MAX; i++) {
+  }
+  ```
   * enhanced for loops
