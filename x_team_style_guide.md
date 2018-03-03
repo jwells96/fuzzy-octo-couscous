@@ -8,15 +8,23 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
+ The name should start with upper case letter nad must be a comprehensable word e.x. Comparable 
 * classes
+ The name should start with upper case letter nad must be clear that it's abstract construct e.x. ListADT
 * exception types
+ 
 * fields
+ Must be descriptive and a phrase or word. First letter must be lower case e.x heightOfTree
 * methods
+ Must be descriptive and a phrase or word. First letter must be lower case e.x getHeight
 * parameters
+ Must be descriptive and a phrase or word. First letter must be lower case e.x leftChild
 * local variables
+ Must be descriptive and a phrase or word. First letter must be lower case e.x rightChild
 * instance constants
+ Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
 * class constants
-
+ Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
 ## Commenting style for public and private members of a class or interface:
 
 <brief statement of your team's commenting style>
@@ -26,6 +34,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * classes
 ```Java
 public class exampleClass {
+
 }
 ```
 * fields
