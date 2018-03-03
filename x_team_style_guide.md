@@ -18,7 +18,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * methods
   * Must be descriptive and a phrase or word. First letter must be lower case e.x getHeight
 * parameters
-  * Must be descriptive and a phrase or word. First letter must be lower case e.x leftChild
+  * Must be descriptive and a phrase or word that describes it's role in the method. First letter must be lower case e.x leftChild
 * local variables
   * Must be descriptive and a phrase or word. First letter must be lower case e.x rightChild
 * instance constants
@@ -32,22 +32,38 @@ The teams commenting style consists of short, descriptive statements of unclear 
 
 * classes
 ```Java
+/*
+ * example class
+ */
 public class exampleClass {
 
 }
 ```
 * fields
 ```Java
+// contains first int 
 int firstInt = 0;
+// contains empty string 
 String emptyStr = "";
 ```
 * constructors
 ```Java
+/*
+ * example class
+ *
+ * @Param firstInt - first integer
+ * 
+ * @Param emptyStr - empty string 
+ * 
+ */
 public exampleClass(int firstInt, String emptyStr) {
 }
 ```
 * methods
 ```Java
+/*
+ * this method takes an input 
+ */
 public callStack(int input) {
 }
 ```
@@ -64,6 +80,7 @@ public callStack(int input) {
   ```
   * switch statement
    ``` Java
+    // switch statement based on month value 
     switch (month) {
         case 2:
             daysInMonth = 28;
@@ -86,11 +103,13 @@ public callStack(int input) {
   ```
   * for loops
   ```Java
+  // loop iterates until MAX
   for(int i = 0; i < MAX; i++) {
   }
   ```
   * enhanced for loops
   ```Java
+  // for every peguin, it 
   for (Penguin p : it) {
   }
   ```
