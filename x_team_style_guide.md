@@ -12,7 +12,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 * classes
   * The name should start with upper case letter nad must be clear that it's abstract construct e.x. ListADT
 * exception types
-  * checked and unchecked exceptions
+  * Each word must be concantenated together and the beginning of each word should be capitalized e.x DuplicateKeyException()
 * fields
   * Must be descriptive and a phrase or word. First letter must be lower case e.x heightOfTree
 * methods
