@@ -8,23 +8,32 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
-  * The name should start with upper case letter (similar to class names) and must be a comprehensable word /ne.x. interface Comparable, interface CatDog 
+  * The name should start with upper case letter (similar to class names) and must be a comprehensable word.
+  * Example: interface Comparable, interface CatDog 
 * classes
-  * The name should start with upper case letter nad must be clear that it's an abstract construct e.x. ListADT
+  * The name should start with upper case letter and must be clear that it's an abstract construct.
+  * Example: class ListADT, class Dog
 * exception types
-  * Each word must be concantenated together and the beginning of each word should be capitalized e.x DuplicateKeyException()
+  * Each word must be concantenated together and the beginning of each word should be capitalized.
+  * Example: DuplicateKeyException()
 * fields
-  * Must be descriptive and a phrase or word. First letter must be lower case e.x heightOfTree
+  * Must be descriptive and a phrase or word. First letter must be lower case and each following word should be capitalized. 
+  * Example: int heightOfTree, float decimalNumber
 * methods
-  * Must be descriptive and a phrase or word. First letter must be lower case e.x getHeight
+  * Must be descriptive and a phrase or word. First letter must be lower case and each following word should be capitalized.
+  * Example: getHeight(), hashFunction()
 * parameters
-  * Must be descriptive and a phrase or word that describes it's role in the method. First letter must be lower case e.x leftChild
+  * Must be descriptive and a phrase or word that describes it's role in the method. First letter must be lower case and each following word should be capitalized.
+  * Example: int leftChild, int dogCatFish
 * local variables
-  * Must be descriptive and a phrase or word. First letter must be lower case e.x rightChild
+  * Must be descriptive and a phrase or word. First letter must be lower case and each following word should be capitalized.
+  * Example: rightChild, localVariable
 * instance constants
-  * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
+  * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore.
+  * Example: NUMBER_OF_CHILDREN
 * class constants
-  * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore e.x NUMBER_OF_CHILDREN
+  * Must be all capital letter and a descriptive phrase or word. Words are saparated by underscore.
+  * Example: NUMBER_OF_CHILDREN
 ## Commenting style for public and private members of a class or interface:
 The teams commenting style consists of short, descriptive statements of unclear code segments. Comments are located above the field they are describing. 
 
