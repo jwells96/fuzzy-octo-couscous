@@ -36,6 +36,8 @@ and missed deadlines.
 ## How we will back up each other to ensure that deadlines are not missed
 * 1. Each member will create an alarm on their phone to go off once a week, in order to remind the members of the upcoming deadline.
   * The alarms are to be set when the assignment is announced.
+* 2. When there is one week left until the due date, the members will contact one another and decide on a time to meet.
+  * The meeting will allow for each member to suggest changes to code and make sure that all the seperate parts are going to be finished on time.
 
 
 
