@@ -8,7 +8,7 @@ All the naming convetions should be descriptive in the right matter. It should b
 
 ### Examples
 * interfaces
-  * The name should start with upper case letter nad must be a comprehensable word e.x. Comparable 
+  * The name should start with upper case letter (similar to class names) and must be a comprehensable word e.x. interface Comparable, interface CatDog 
 * classes
   * The name should start with upper case letter nad must be clear that it's an abstract construct e.x. ListADT
 * exception types
